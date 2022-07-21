@@ -1,0 +1,38 @@
+.width_my_show_profile{
+    width: auto !important;
+}
+
+.width_my_profile{
+    padding-left: 50px !important;
+    padding-right: 50px !important;
+}
+
+.width_my_dashboard{    
+    margin-left:2%;
+    margin-right:2%;
+    align-content: center !important;
+}
+
+.element{
+    display: flex;
+    padding-top: 0.5rem !important; 
+    padding-bottom: 0.5rem !important;
+}
+
+.trash{
+    padding-top: 5%;
+    padding-left: 90%;
+}
+
+.card_aboutus{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top:30px;
+    padding-bottom: 30px;
+}
+
+.a{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+

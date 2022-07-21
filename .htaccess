@@ -1,0 +1,13 @@
+# Deny access to .htaccess
+<Files .htaccess>
+Order allow,deny
+Deny from all
+</Files>
+
+Options -Indexes
+
+RewriteEngine On
+RewriteBase /
+
+ErrorDocument 403 http://localhost/labo_finale/
+ErrorDocument 404 http://localhost/labo_finale/
